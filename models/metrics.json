@@ -1,0 +1,50 @@
+{
+  "model": "logistic_regression",
+  "cv_roc_auc": {
+    "logistic_regression": 0.7951,
+    "random_forest": 0.7911
+  },
+  "test_roc_auc": 0.7096,
+  "test_pr_auc": 0.5307,
+  "test_churn_rate": 0.2333,
+  "classification_report": {
+    "0": {
+      "precision": 0.8297872340425532,
+      "recall": 0.6782608695652174,
+      "f1-score": 0.7464114832535885,
+      "support": 115.0
+    },
+    "1": {
+      "precision": 0.3392857142857143,
+      "recall": 0.5428571428571428,
+      "f1-score": 0.4175824175824176,
+      "support": 35.0
+    },
+    "accuracy": 0.6466666666666666,
+    "macro avg": {
+      "precision": 0.5845364741641337,
+      "recall": 0.6105590062111801,
+      "f1-score": 0.581996950418003,
+      "support": 150.0
+    },
+    "weighted avg": {
+      "precision": 0.715336879432624,
+      "recall": 0.6466666666666666,
+      "f1-score": 0.6696847012636485,
+      "support": 150.0
+    }
+  },
+  "feature_importance": {
+    "logins_per_user": 0.0481,
+    "seat_adoption": 0.024,
+    "avg_features_used": 0.0164,
+    "days_since_csm_touch": 0.0061,
+    "tenure_months": 0.0041,
+    "tickets_last_3m": 0.0036,
+    "nps_score": 0.0023,
+    "onboarding_days": 0.0011,
+    "days_to_renewal": -0.0001,
+    "escalations_last_3m": -0.0073,
+    "adoption_trend": -0.0099
+  }
+}

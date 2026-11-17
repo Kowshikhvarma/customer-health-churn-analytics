@@ -1,0 +1,26 @@
+account_id,company,csm_owner,plan,arr_inr,health_score,churn_probability,health_tier,days_to_renewal,arr_at_risk_inr,next_best_action
+ACC-0023,Blue Works India,Asha,Enterprise,4182000,31.4,0.948,Critical,92,3965000,"Run a seat-activation campaign: share usage report, book a training for inactive users."
+ACC-0198,Summit Works Global,Ravi,Enterprise,4104000,43.7,0.892,Critical,212,3661000,No recent CSM contact. Book a check-in and update the success plan.
+ACC-0528,Apex Logistics Global,Meera,Enterprise,4061000,32.5,0.881,Critical,67,3578000,"High ticket/escalation load. Loop in support lead, do a root-cause review with the customer."
+ACC-0003,Green Mobility,Meera,Enterprise,3554000,30.0,0.966,Critical,85,3433000,No recent CSM contact. Book a check-in and update the success plan.
+ACC-0233,Zenith Logistics India,Ravi,Enterprise,3751000,34.5,0.907,Critical,35,3402000,"URGENT (renews in 35d): exec sponsor call + High ticket/escalation load. Loop in support lead, do a root-cause review with the customer."
+ACC-0178,Vertex Works Global,Arjun,Enterprise,3925000,53.6,0.812,At Risk,108,3187000,No recent CSM contact. Book a check-in and update the success plan.
+ACC-0447,Kite Works Technologies,Asha,Enterprise,2989000,36.7,0.895,Critical,214,2675000,"Low NPS. Call the detractor within 48h, log feedback, agree on a fix plan."
+ACC-0143,Kite Labs Technologies,Ravi,Enterprise,3810000,57.9,0.66,At Risk,171,2515000,Usage is declining. Schedule a value review call and re-confirm the customer's goals.
+ACC-0390,Prime Logistics Solutions,Arjun,Enterprise,3795000,56.6,0.627,At Risk,130,2379000,"High ticket/escalation load. Loop in support lead, do a root-cause review with the customer."
+ACC-0181,Peak Learning India,Divya,Enterprise,2270000,20.6,0.979,Critical,269,2222000,"High ticket/escalation load. Loop in support lead, do a root-cause review with the customer."
+ACC-0414,Peak Analytics India,Ravi,Enterprise,3809000,61.6,0.577,At Risk,331,2198000,"Low NPS. Call the detractor within 48h, log feedback, agree on a fix plan."
+ACC-0463,Vertex Logistics Technologies,Asha,Enterprise,2968000,58.6,0.673,At Risk,26,1997000,"URGENT (renews in 26d): exec sponsor call + High ticket/escalation load. Loop in support lead, do a root-cause review with the customer."
+ACC-0182,Quartz Health Global,Asha,Enterprise,2607000,39.1,0.739,Critical,361,1927000,"High ticket/escalation load. Loop in support lead, do a root-cause review with the customer."
+ACC-0420,Green Works Solutions,Asha,Enterprise,2165000,51.9,0.85,At Risk,225,1840000,"High ticket/escalation load. Loop in support lead, do a root-cause review with the customer."
+ACC-0377,Prime Health,Meera,Enterprise,2558000,53.2,0.685,At Risk,61,1752000,"High ticket/escalation load. Loop in support lead, do a root-cause review with the customer."
+ACC-0502,Core Systems Global,Asha,Enterprise,2857000,47.5,0.6,At Risk,51,1714000,"URGENT (renews in 51d): exec sponsor call + High ticket/escalation load. Loop in support lead, do a root-cause review with the customer."
+ACC-0226,Nova Health Global,Asha,Enterprise,3733000,72.8,0.449,Healthy,144,1676000,No recent CSM contact. Book a check-in and update the success plan.
+ACC-0321,Apex Systems Solutions,Asha,Enterprise,2658000,69.1,0.619,At Risk,94,1645000,No recent CSM contact. Book a check-in and update the success plan.
+ACC-0585,Green Analytics Technologies,Meera,Enterprise,1709000,18.1,0.961,Critical,318,1642000,"Run a seat-activation campaign: share usage report, book a training for inactive users."
+ACC-0340,Vertex Mobility India,Ravi,Enterprise,2084000,31.9,0.768,Critical,140,1601000,"Run a seat-activation campaign: share usage report, book a training for inactive users."
+ACC-0591,Atlas Foods Solutions,Divya,Enterprise,2525000,55.1,0.564,At Risk,108,1424000,"Low NPS. Call the detractor within 48h, log feedback, agree on a fix plan."
+ACC-0388,Harbor Systems Solutions,Ravi,Enterprise,1468000,25.8,0.966,Critical,54,1418000,"URGENT (renews in 54d): exec sponsor call + Run a seat-activation campaign: share usage report, book a training for inactive users."
+ACC-0405,Bright Works Technologies,Meera,Enterprise,1571000,40.7,0.885,Critical,84,1390000,"Run a seat-activation campaign: share usage report, book a training for inactive users."
+ACC-0024,Nova Finance,Arjun,Enterprise,2967000,68.2,0.465,At Risk,37,1380000,URGENT (renews in 37d): exec sponsor call + No recent CSM contact. Book a check-in and update the success plan.
+ACC-0224,Bright Works India,Meera,Enterprise,2745000,52.6,0.494,At Risk,141,1356000,"High ticket/escalation load. Loop in support lead, do a root-cause review with the customer."

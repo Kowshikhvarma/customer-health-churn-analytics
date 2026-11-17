@@ -1,0 +1,601 @@
+account_id,company,industry,plan,csm_owner,arr_inr,seats,signup_date,renewal_date,onboarding_days,days_since_csm_touch,nps_score,churned
+ACC-0001,Atlas Logistics India,Retail,Growth,Asha,630000,41,2025-03-18,2027-05-13,29,28,7,0
+ACC-0002,Nova Labs India,Retail,Starter,Meera,262000,7,2024-01-26,2027-02-28,25,28,7,0
+ACC-0003,Green Mobility,FinTech,Enterprise,Meera,3554000,314,2024-09-21,2027-01-24,40,55,4,0
+ACC-0004,Core Logistics India,Retail,Growth,Arjun,890000,64,2026-07-04,2027-03-16,25,24,5,1
+ACC-0005,Kite Health Technologies,Healthcare,Starter,Asha,300000,17,2026-04-21,2026-11-18,17,29,7,0
+ACC-0006,Vertex Labs Solutions,IT Services,Enterprise,Asha,2573000,142,2024-01-17,2027-07-11,15,4,9,0
+ACC-0007,Peak Logistics Technologies,Retail,Growth,Meera,929000,92,2026-01-27,2027-07-17,31,8,9,0
+ACC-0008,Prime Retail Technologies,Healthcare,Growth,Asha,973000,49,2026-05-24,2027-07-03,31,22,7,0
+ACC-0009,Kite Logistics Technologies,Logistics,Starter,Asha,139000,15,2025-05-21,2027-05-21,33,20,7,0
+ACC-0010,Prime Logistics India,IT Services,Starter,Arjun,105000,18,2025-03-04,2027-03-15,11,2,9,0
+ACC-0011,Nova Retail Solutions,Retail,Starter,Divya,179000,10,2025-01-13,2027-07-23,25,39,4,0
+ACC-0012,Cedar Systems India,Manufacturing,Enterprise,Meera,3753000,209,2024-10-16,2027-09-14,32,26,9,0
+ACC-0013,Harbor Logistics Solutions,Logistics,Growth,Asha,526000,63,2023-10-29,2026-12-06,25,57,3,1
+ACC-0014,Prime Logistics Technologies,Manufacturing,Growth,Divya,846000,111,2024-07-04,2027-03-22,54,48,2,1
+ACC-0015,Kite Finance Technologies,Retail,Starter,Meera,97000,16,2026-08-06,2027-10-29,18,26,7,0
+ACC-0016,Green Works Global,Healthcare,Starter,Arjun,168000,22,2026-06-01,2027-09-11,35,24,8,0
+ACC-0017,Core Retail,Retail,Growth,Asha,780000,81,2026-09-01,2027-10-28,24,39,6,0
+ACC-0018,Green Health Global,IT Services,Starter,Meera,122000,16,2025-07-17,2027-01-09,30,0,9,0
+ACC-0019,Atlas Mobility Global,Manufacturing,Growth,Asha,999000,42,2025-09-02,2027-04-21,54,20,7,0
+ACC-0020,Lumen Foods Technologies,Manufacturing,Growth,Arjun,422000,79,2024-01-05,2026-12-21,14,25,10,0
+ACC-0021,Summit Systems India,IT Services,Growth,Ravi,1010000,33,2025-08-17,2027-09-12,32,12,7,1
+ACC-0022,Kite Cloud India,Retail,Starter,Divya,140000,22,2026-08-01,2027-05-10,20,28,6,0
+ACC-0023,Blue Works India,Retail,Enterprise,Asha,4182000,265,2024-02-25,2027-01-31,45,44,3,1
+ACC-0024,Nova Finance,IT Services,Enterprise,Arjun,2967000,51,2025-12-05,2026-12-07,33,28,6,1
+ACC-0025,Orbit Finance,Logistics,Growth,Asha,366000,53,2024-01-26,2027-07-28,30,25,7,0
+ACC-0026,Nova Labs,Retail,Starter,Arjun,109000,17,2024-06-18,2027-08-24,22,28,9,0
+ACC-0027,Indigo Works,FinTech,Starter,Meera,111000,13,2024-02-29,2027-09-17,42,33,5,1
+ACC-0028,Orbit Works Solutions,IT Services,Starter,Divya,216000,18,2024-05-02,2027-10-20,24,28,7,1
+ACC-0029,Core Foods,Healthcare,Starter,Arjun,261000,11,2026-04-06,2027-08-25,37,20,7,0
+ACC-0030,Lumen Mobility,Healthcare,Growth,Ravi,614000,36,2024-11-19,2027-08-15,30,30,4,1
+ACC-0031,Orbit Learning India,Manufacturing,Growth,Asha,647000,58,2025-06-30,2027-08-24,14,1,9,0
+ACC-0032,Bright Health India,Healthcare,Enterprise,Meera,2919000,252,2024-11-17,2027-10-30,35,18,6,0
+ACC-0033,Prime Labs Solutions,FinTech,Starter,Meera,205000,13,2024-07-18,2027-04-20,25,14,8,0
+ACC-0034,Swift Works Solutions,IT Services,Starter,Asha,236000,20,2025-03-30,2027-08-05,46,39,6,0
+ACC-0035,Harbor Works India,Retail,Starter,Meera,192000,11,2025-10-11,2027-08-27,42,35,6,1
+ACC-0036,Quartz Logistics Solutions,Manufacturing,Starter,Ravi,242000,16,2024-01-23,2026-12-16,22,30,8,0
+ACC-0037,Blue Mobility,EdTech,Starter,Ravi,299000,15,2024-10-12,2027-07-11,22,4,9,0
+ACC-0038,Apex Analytics India,Healthcare,Starter,Asha,167000,7,2024-02-24,2027-03-06,35,29,6,1
+ACC-0039,Harbor Cloud Technologies,FinTech,Starter,Ravi,98000,9,2025-12-29,2026-12-22,40,14,7,0
+ACC-0040,Orbit Foods Global,Manufacturing,Growth,Ravi,398000,60,2024-04-13,2027-01-05,31,16,10,0
+ACC-0041,Prime Analytics Technologies,Healthcare,Starter,Asha,209000,23,2025-09-30,2026-12-16,24,22,8,0
+ACC-0042,Peak Retail Global,Logistics,Growth,Meera,569000,70,2025-05-11,2027-09-24,23,28,6,0
+ACC-0043,Swift Learning Solutions,Retail,Growth,Ravi,1033000,28,2024-03-21,2027-08-09,38,29,3,1
+ACC-0044,Orbit Retail Solutions,Retail,Starter,Asha,224000,5,2025-08-29,2026-12-11,41,25,7,0
+ACC-0045,Blue Foods Technologies,IT Services,Growth,Meera,706000,73,2025-12-15,2027-06-18,40,41,2,1
+ACC-0046,Harbor Retail Global,Logistics,Growth,Asha,922000,58,2024-01-23,2027-06-30,26,27,6,0
+ACC-0047,Peak Learning,Logistics,Starter,Divya,149000,20,2023-12-04,2027-05-10,27,13,5,1
+ACC-0048,Kite Analytics India,Retail,Starter,Meera,263000,11,2025-10-13,2027-06-11,30,18,7,0
+ACC-0049,Nova Learning Solutions,Retail,Growth,Divya,302000,66,2025-10-18,2027-09-27,26,38,7,0
+ACC-0050,Indigo Retail Technologies,Logistics,Starter,Divya,222000,18,2026-01-08,2027-05-10,27,14,5,1
+ACC-0051,Lumen Health Global,Healthcare,Starter,Divya,287000,12,2026-08-08,2027-06-30,40,20,8,0
+ACC-0052,Summit Finance Solutions,FinTech,Starter,Meera,257000,13,2025-02-04,2027-05-29,35,38,2,0
+ACC-0053,Zenith Systems Global,Logistics,Growth,Meera,966000,60,2025-12-10,2027-03-27,38,33,5,0
+ACC-0054,Blue Works Global,Logistics,Growth,Arjun,610000,69,2024-04-01,2027-09-21,8,15,9,0
+ACC-0055,Apex Analytics Global,Healthcare,Growth,Asha,943000,59,2026-03-07,2027-04-03,26,9,8,0
+ACC-0056,Summit Learning India,Manufacturing,Growth,Divya,730000,77,2024-11-10,2027-08-19,36,43,7,1
+ACC-0057,Peak Systems India,EdTech,Starter,Ravi,222000,12,2025-03-23,2027-06-10,24,23,4,0
+ACC-0058,Green Foods Technologies,FinTech,Growth,Asha,346000,36,2024-12-04,2027-07-09,30,18,6,0
+ACC-0059,Core Health Global,Manufacturing,Starter,Ravi,137000,23,2026-05-07,2027-08-05,24,21,8,0
+ACC-0060,Vertex Logistics Global,IT Services,Starter,Ravi,208000,12,2025-05-04,2027-07-27,12,23,8,0
+ACC-0061,Core Works Global,Retail,Growth,Asha,346000,49,2024-11-19,2027-05-27,38,42,7,0
+ACC-0062,Apex Health India,FinTech,Starter,Arjun,247000,14,2025-09-12,2027-06-14,30,29,8,0
+ACC-0063,Blue Analytics Solutions,Retail,Growth,Asha,955000,61,2024-03-06,2027-05-07,24,29,6,0
+ACC-0064,Bright Foods Global,Logistics,Growth,Divya,1018000,53,2025-02-28,2027-03-07,28,28,5,0
+ACC-0065,Bright Foods Technologies,Healthcare,Growth,Meera,379000,59,2025-08-20,2027-07-24,16,15,10,0
+ACC-0066,Quartz Foods,EdTech,Growth,Arjun,1033000,59,2026-07-31,2027-09-17,33,25,5,0
+ACC-0067,Atlas Finance India,Healthcare,Growth,Ravi,353000,63,2026-03-10,2027-07-16,48,34,3,1
+ACC-0068,Zenith Labs Technologies,Healthcare,Starter,Asha,193000,5,2025-04-24,2027-08-09,45,40,5,1
+ACC-0069,Blue Foods,EdTech,Starter,Asha,267000,23,2025-07-12,2027-08-30,16,28,6,0
+ACC-0070,Blue Finance Technologies,Manufacturing,Starter,Arjun,110000,14,2024-03-09,2027-03-17,31,31,10,0
+ACC-0071,Atlas Logistics Technologies,IT Services,Starter,Arjun,100000,17,2024-06-06,2026-11-27,25,14,10,0
+ACC-0072,Summit Labs Global,Healthcare,Starter,Ravi,101000,8,2026-03-20,2027-03-06,36,29,7,0
+ACC-0073,Core Cloud Global,FinTech,Enterprise,Ravi,2675000,214,2024-12-25,2027-08-03,30,20,8,0
+ACC-0074,Swift Retail Global,Retail,Starter,Divya,262000,11,2025-05-17,2027-08-25,19,47,2,1
+ACC-0075,Indigo Finance Solutions,Logistics,Starter,Divya,122000,21,2026-05-19,2027-05-08,33,13,9,0
+ACC-0076,Nova Works,IT Services,Starter,Meera,121000,12,2024-10-09,2027-08-12,27,30,3,0
+ACC-0077,Peak Foods,Logistics,Starter,Ravi,212000,18,2025-02-20,2026-12-01,13,13,7,0
+ACC-0078,Blue Labs India,EdTech,Growth,Ravi,483000,48,2026-06-03,2027-06-24,25,24,8,0
+ACC-0079,Summit Cloud Technologies,Healthcare,Growth,Meera,870000,51,2025-05-03,2027-07-07,32,19,8,0
+ACC-0080,Cedar Systems Global,Healthcare,Growth,Meera,1041000,55,2024-08-02,2027-05-06,18,5,5,0
+ACC-0081,Zenith Cloud,FinTech,Growth,Asha,898000,83,2025-09-26,2027-07-20,35,16,6,0
+ACC-0082,Quartz Systems Global,Logistics,Starter,Asha,275000,6,2025-08-26,2027-04-30,33,21,5,1
+ACC-0083,Apex Foods Solutions,Retail,Growth,Meera,705000,36,2026-05-10,2027-05-12,25,17,8,1
+ACC-0084,Zenith Foods,FinTech,Starter,Arjun,266000,6,2026-02-01,2027-06-10,23,37,6,0
+ACC-0085,Quartz Works Global,Logistics,Starter,Asha,133000,10,2023-11-16,2027-08-17,29,40,5,0
+ACC-0086,Bright Analytics,Manufacturing,Starter,Meera,110000,11,2024-11-25,2027-02-02,37,26,8,0
+ACC-0087,Bright Finance Technologies,EdTech,Growth,Asha,812000,30,2026-03-02,2027-02-21,18,23,8,0
+ACC-0088,Blue Logistics Solutions,IT Services,Starter,Ravi,107000,11,2025-04-17,2027-04-04,34,28,9,0
+ACC-0089,Nova Mobility Global,Manufacturing,Starter,Arjun,278000,5,2026-02-13,2027-01-16,33,28,6,0
+ACC-0090,Apex Foods Technologies,Manufacturing,Growth,Ravi,839000,41,2025-05-29,2027-03-05,32,28,7,0
+ACC-0091,Blue Retail Global,IT Services,Starter,Ravi,290000,20,2026-04-03,2027-03-11,18,17,7,0
+ACC-0092,Vertex Analytics Solutions,FinTech,Growth,Divya,545000,67,2024-11-27,2027-02-26,28,35,6,0
+ACC-0093,Zenith Retail Global,Manufacturing,Starter,Asha,195000,15,2025-01-16,2027-04-01,27,15,9,0
+ACC-0094,Summit Mobility Solutions,IT Services,Starter,Asha,247000,10,2024-11-12,2027-05-05,18,14,7,0
+ACC-0095,Lumen Cloud India,IT Services,Starter,Divya,146000,8,2025-05-28,2027-07-13,29,17,7,0
+ACC-0096,Cedar Foods Solutions,Logistics,Growth,Meera,723000,39,2025-11-08,2027-02-22,25,21,10,0
+ACC-0097,Zenith Health Solutions,Manufacturing,Starter,Asha,231000,14,2025-12-16,2027-09-05,21,16,9,0
+ACC-0098,Swift Health Technologies,IT Services,Starter,Meera,296000,18,2026-01-21,2027-04-26,33,16,7,0
+ACC-0099,Bright Systems Global,Manufacturing,Starter,Meera,248000,19,2025-06-12,2027-07-22,8,9,10,0
+ACC-0100,Peak Mobility Solutions,IT Services,Enterprise,Ravi,1449000,297,2025-05-20,2026-12-16,25,16,7,0
+ACC-0101,Quartz Learning,Manufacturing,Enterprise,Meera,2563000,194,2024-10-01,2027-01-06,40,20,7,0
+ACC-0102,Atlas Learning,Retail,Growth,Arjun,759000,60,2026-07-09,2027-04-17,34,11,7,0
+ACC-0103,Vertex Systems Technologies,Manufacturing,Starter,Ravi,126000,13,2025-11-13,2027-03-16,31,11,7,0
+ACC-0104,Peak Retail Solutions,Retail,Enterprise,Divya,2428000,234,2024-03-29,2027-05-02,25,20,9,0
+ACC-0105,Vertex Health India,Manufacturing,Growth,Meera,522000,96,2024-01-24,2027-01-01,25,23,8,1
+ACC-0106,Prime Mobility Solutions,Manufacturing,Growth,Divya,393000,28,2024-01-07,2027-04-24,25,18,8,0
+ACC-0107,Nova Cloud India,IT Services,Starter,Asha,200000,13,2025-10-18,2027-07-10,34,26,7,0
+ACC-0108,Quartz Finance Solutions,Logistics,Starter,Ravi,130000,20,2026-04-12,2027-07-25,19,22,8,0
+ACC-0109,Summit Cloud Solutions,EdTech,Starter,Arjun,216000,8,2026-02-07,2027-02-02,30,22,10,0
+ACC-0110,Nova Works Solutions,FinTech,Enterprise,Divya,1609000,201,2026-04-17,2027-03-08,42,24,6,0
+ACC-0111,Quartz Labs Technologies,Logistics,Starter,Ravi,244000,12,2023-12-14,2027-05-13,39,39,4,1
+ACC-0112,Core Works Technologies,EdTech,Starter,Divya,136000,13,2024-02-26,2027-05-10,17,14,8,0
+ACC-0113,Indigo Finance Global,EdTech,Starter,Asha,279000,7,2024-05-12,2027-08-17,19,13,10,0
+ACC-0114,Nova Foods India,Logistics,Growth,Meera,320000,70,2024-08-04,2027-03-25,36,22,6,1
+ACC-0115,Nova Labs Global,Manufacturing,Starter,Ravi,202000,17,2025-09-10,2027-07-04,24,15,8,0
+ACC-0116,Apex Health Technologies,FinTech,Enterprise,Meera,2079000,288,2025-04-25,2027-09-19,33,13,6,0
+ACC-0117,Quartz Analytics Global,EdTech,Growth,Divya,476000,44,2024-04-09,2027-02-20,24,22,7,0
+ACC-0118,Green Analytics Solutions,Manufacturing,Growth,Arjun,668000,61,2024-05-08,2027-08-28,40,24,7,1
+ACC-0119,Vertex Finance Solutions,Manufacturing,Starter,Arjun,268000,10,2025-03-11,2027-03-04,28,10,9,0
+ACC-0120,Peak Finance,Manufacturing,Growth,Ravi,1014000,54,2024-04-13,2027-03-05,24,31,7,0
+ACC-0121,Summit Mobility Technologies,Manufacturing,Growth,Divya,537000,98,2025-09-06,2027-06-28,26,19,6,0
+ACC-0122,Prime Mobility India,Manufacturing,Growth,Meera,420000,61,2025-06-28,2027-06-16,28,28,6,0
+ACC-0123,Summit Cloud Global,IT Services,Starter,Arjun,243000,9,2024-04-11,2027-05-21,45,17,5,0
+ACC-0124,Core Logistics,Logistics,Starter,Arjun,215000,15,2025-08-06,2027-01-27,36,40,7,1
+ACC-0125,Blue Foods Solutions,FinTech,Starter,Arjun,137000,8,2024-07-11,2026-12-09,33,34,5,0
+ACC-0126,Atlas Health,EdTech,Starter,Arjun,251000,9,2025-05-18,2027-09-28,31,29,6,0
+ACC-0127,Core Logistics Global,Logistics,Starter,Meera,202000,10,2025-10-27,2027-09-15,27,30,6,0
+ACC-0128,Blue Foods India,Healthcare,Starter,Arjun,229000,13,2026-01-17,2027-09-20,33,42,7,1
+ACC-0129,Nova Works Global,Manufacturing,Starter,Divya,169000,19,2024-12-10,2027-05-08,35,6,8,0
+ACC-0130,Core Health Technologies,EdTech,Growth,Ravi,642000,70,2025-04-21,2027-09-19,29,45,6,0
+ACC-0131,Bright Learning Technologies,IT Services,Starter,Meera,133000,17,2025-08-13,2027-04-24,23,43,8,1
+ACC-0132,Bright Learning India,FinTech,Enterprise,Asha,3440000,167,2024-07-21,2026-12-02,25,0,9,1
+ACC-0133,Orbit Mobility,IT Services,Growth,Ravi,422000,50,2026-08-31,2027-01-15,32,21,10,0
+ACC-0134,Cedar Works,EdTech,Starter,Arjun,255000,16,2026-05-29,2027-02-11,42,20,5,0
+ACC-0135,Cedar Works Solutions,Logistics,Growth,Arjun,922000,48,2023-12-06,2027-03-20,27,14,6,0
+ACC-0136,Green Cloud,Logistics,Starter,Ravi,248000,13,2024-10-11,2027-10-09,33,19,5,0
+ACC-0137,Prime Health India,Logistics,Enterprise,Meera,1141000,283,2025-02-07,2027-03-04,42,42,3,1
+ACC-0138,Vertex Finance,IT Services,Starter,Divya,152000,13,2026-08-17,2027-06-13,17,16,6,0
+ACC-0139,Apex Learning Technologies,FinTech,Growth,Asha,665000,64,2024-12-18,2027-02-10,28,25,4,0
+ACC-0140,Bright Labs Technologies,Manufacturing,Starter,Asha,217000,22,2025-06-06,2027-06-24,31,37,4,0
+ACC-0141,Green Labs India,IT Services,Starter,Ravi,284000,14,2024-12-17,2027-05-28,16,21,9,1
+ACC-0142,Blue Finance Global,FinTech,Starter,Arjun,173000,20,2026-07-21,2026-12-29,31,8,9,0
+ACC-0143,Kite Labs Technologies,FinTech,Enterprise,Ravi,3810000,291,2025-02-06,2027-04-20,37,21,5,0
+ACC-0144,Green Logistics,EdTech,Growth,Divya,427000,33,2025-01-09,2026-12-12,27,35,7,0
+ACC-0145,Bright Mobility Solutions,Manufacturing,Starter,Divya,172000,10,2025-11-04,2027-09-21,6,10,10,0
+ACC-0146,Nova Health India,IT Services,Starter,Meera,107000,11,2026-07-07,2027-07-16,39,14,9,0
+ACC-0147,Vertex Health Technologies,Manufacturing,Starter,Ravi,247000,11,2023-11-26,2027-10-09,32,35,5,1
+ACC-0148,Green Finance,Manufacturing,Growth,Asha,418000,58,2024-08-25,2027-09-16,38,18,9,1
+ACC-0149,Core Health India,EdTech,Starter,Divya,148000,17,2024-11-24,2027-01-23,13,27,8,0
+ACC-0150,Lumen Retail Global,Logistics,Starter,Divya,254000,20,2024-06-26,2027-07-17,23,27,10,0
+ACC-0151,Blue Logistics,FinTech,Growth,Meera,717000,65,2024-10-04,2026-12-11,22,25,5,1
+ACC-0152,Indigo Foods Technologies,EdTech,Enterprise,Meera,1124000,216,2026-04-15,2027-10-16,34,16,7,0
+ACC-0153,Quartz Finance Technologies,FinTech,Starter,Arjun,96000,5,2025-05-17,2027-08-14,23,24,4,0
+ACC-0154,Indigo Learning India,Healthcare,Growth,Arjun,698000,61,2024-02-20,2027-07-07,33,41,3,1
+ACC-0155,Bright Logistics India,Manufacturing,Starter,Asha,158000,15,2025-11-06,2027-10-29,16,4,7,0
+ACC-0156,Blue Health,Manufacturing,Growth,Arjun,441000,63,2023-11-25,2027-09-05,36,32,7,0
+ACC-0157,Summit Cloud India,EdTech,Starter,Divya,221000,24,2026-06-27,2027-09-11,30,8,7,0
+ACC-0158,Summit Learning Technologies,Healthcare,Growth,Arjun,478000,82,2025-09-23,2026-12-11,41,35,7,0
+ACC-0159,Orbit Logistics Solutions,Healthcare,Growth,Meera,762000,74,2025-09-02,2026-11-13,24,37,6,0
+ACC-0160,Cedar Labs Technologies,Healthcare,Growth,Meera,596000,42,2024-11-28,2027-10-16,33,25,5,0
+ACC-0161,Harbor Mobility Solutions,Manufacturing,Starter,Ravi,134000,12,2026-03-02,2027-02-03,22,30,5,1
+ACC-0162,Nova Analytics,FinTech,Enterprise,Arjun,1511000,242,2026-01-06,2027-04-07,23,7,8,0
+ACC-0163,Bright Foods Solutions,FinTech,Starter,Ravi,144000,11,2024-10-13,2026-11-20,21,20,8,0
+ACC-0164,Lumen Systems Solutions,IT Services,Starter,Ravi,102000,17,2025-11-09,2027-06-17,28,12,8,0
+ACC-0165,Quartz Analytics Technologies,IT Services,Growth,Ravi,540000,66,2024-03-01,2027-08-27,47,32,4,0
+ACC-0166,Swift Logistics,Manufacturing,Starter,Ravi,280000,10,2024-03-10,2027-09-04,33,17,8,0
+ACC-0167,Atlas Cloud,Retail,Growth,Ravi,948000,81,2025-10-22,2027-06-02,18,12,8,0
+ACC-0168,Vertex Works,Logistics,Growth,Asha,590000,61,2025-01-27,2027-07-01,42,30,4,0
+ACC-0169,Kite Retail Global,FinTech,Starter,Arjun,213000,7,2025-09-20,2027-05-08,26,26,8,1
+ACC-0170,Quartz Foods India,IT Services,Enterprise,Meera,2850000,246,2025-09-08,2027-04-14,24,13,10,0
+ACC-0171,Indigo Mobility Global,Healthcare,Starter,Divya,265000,16,2024-10-04,2027-05-23,22,34,7,0
+ACC-0172,Kite Foods,Manufacturing,Growth,Asha,484000,77,2025-11-01,2027-10-07,26,15,5,1
+ACC-0173,Zenith Foods Technologies,EdTech,Starter,Arjun,156000,13,2026-03-30,2027-02-03,46,45,8,1
+ACC-0174,Lumen Health Solutions,Manufacturing,Enterprise,Asha,2022000,312,2025-12-06,2027-04-23,28,10,10,0
+ACC-0175,Atlas Analytics Technologies,EdTech,Starter,Meera,104000,15,2024-01-09,2027-06-09,37,35,7,1
+ACC-0176,Blue Works,FinTech,Starter,Meera,160000,9,2025-12-06,2027-05-29,30,24,6,1
+ACC-0177,Green Logistics Global,Manufacturing,Starter,Meera,275000,8,2025-08-19,2026-11-16,44,17,7,0
+ACC-0178,Vertex Works Global,Logistics,Enterprise,Arjun,3925000,334,2024-11-17,2027-02-16,44,39,5,0
+ACC-0179,Nova Learning India,EdTech,Enterprise,Divya,1422000,339,2026-05-19,2027-06-25,30,46,7,0
+ACC-0180,Lumen Learning,Retail,Growth,Ravi,657000,65,2025-11-26,2027-07-12,29,36,9,1
+ACC-0181,Peak Learning India,Retail,Enterprise,Divya,2270000,362,2026-03-04,2027-07-27,41,43,3,1
+ACC-0182,Quartz Health Global,EdTech,Enterprise,Asha,2607000,329,2024-01-14,2027-10-27,37,36,2,0
+ACC-0183,Green Mobility Solutions,FinTech,Growth,Ravi,733000,72,2024-01-05,2027-07-05,26,21,7,0
+ACC-0184,Indigo Retail,FinTech,Starter,Ravi,100000,10,2024-07-08,2027-06-01,39,27,4,1
+ACC-0185,Apex Retail Solutions,FinTech,Growth,Divya,957000,91,2025-12-18,2027-03-04,47,26,4,0
+ACC-0186,Blue Analytics Global,Healthcare,Growth,Asha,1059000,69,2024-11-29,2027-03-18,13,9,8,0
+ACC-0187,Prime Foods Global,IT Services,Starter,Ravi,229000,13,2024-10-13,2027-08-29,15,15,9,0
+ACC-0188,Kite Retail Technologies,FinTech,Starter,Meera,231000,11,2024-03-11,2027-04-22,21,0,7,0
+ACC-0189,Apex Learning Global,FinTech,Growth,Divya,712000,64,2026-03-23,2027-07-20,32,33,6,0
+ACC-0190,Indigo Finance,FinTech,Starter,Meera,164000,7,2024-07-28,2026-12-19,41,32,7,0
+ACC-0191,Bright Labs,IT Services,Enterprise,Divya,1545000,302,2026-02-12,2026-12-21,31,23,5,0
+ACC-0192,Lumen Works Global,EdTech,Starter,Arjun,215000,10,2025-01-18,2027-01-21,33,14,9,0
+ACC-0193,Vertex Analytics,Retail,Starter,Arjun,105000,16,2024-03-01,2027-01-14,29,15,6,0
+ACC-0194,Swift Retail,Retail,Growth,Arjun,943000,50,2026-06-29,2027-06-11,31,33,4,0
+ACC-0195,Prime Works,Healthcare,Starter,Asha,182000,13,2026-04-01,2027-06-22,16,0,7,0
+ACC-0196,Zenith Logistics Technologies,Retail,Starter,Meera,181000,11,2024-05-09,2027-05-24,37,37,7,0
+ACC-0197,Apex Systems India,FinTech,Growth,Meera,555000,57,2026-08-13,2027-02-17,35,26,7,0
+ACC-0198,Summit Works Global,Manufacturing,Enterprise,Ravi,4104000,391,2024-09-19,2027-05-31,48,55,6,1
+ACC-0199,Peak Analytics Solutions,Healthcare,Starter,Asha,132000,21,2025-03-29,2026-12-17,29,11,8,0
+ACC-0200,Quartz Labs Solutions,Retail,Starter,Asha,127000,16,2025-09-06,2027-04-24,45,60,1,1
+ACC-0201,Lumen Logistics,Manufacturing,Growth,Arjun,429000,59,2024-03-18,2026-12-30,29,21,3,0
+ACC-0202,Cedar Cloud India,Manufacturing,Enterprise,Arjun,3135000,313,2024-04-02,2026-12-02,32,16,8,0
+ACC-0203,Green Finance Global,EdTech,Growth,Ravi,1074000,80,2025-09-27,2027-01-03,24,21,7,0
+ACC-0204,Lumen Mobility Solutions,FinTech,Starter,Arjun,144000,11,2026-08-28,2026-12-15,43,43,5,1
+ACC-0205,Vertex Systems,Retail,Starter,Arjun,281000,14,2026-04-21,2027-04-26,24,20,9,0
+ACC-0206,Harbor Health,FinTech,Starter,Divya,153000,6,2026-05-13,2027-05-20,18,32,7,0
+ACC-0207,Peak Analytics Technologies,Logistics,Starter,Divya,228000,20,2023-11-15,2027-06-11,16,34,6,0
+ACC-0208,Harbor Retail India,Retail,Growth,Divya,332000,97,2024-12-20,2027-04-12,34,28,5,0
+ACC-0209,Zenith Systems India,Logistics,Starter,Asha,197000,15,2024-09-28,2027-01-07,34,7,9,0
+ACC-0210,Vertex Analytics India,Logistics,Growth,Arjun,811000,21,2026-01-04,2026-11-12,41,13,6,0
+ACC-0211,Nova Health,IT Services,Growth,Ravi,718000,70,2024-03-31,2027-07-19,41,51,8,1
+ACC-0212,Zenith Retail India,Retail,Growth,Meera,486000,43,2024-08-11,2027-10-24,45,20,6,0
+ACC-0213,Kite Cloud,IT Services,Starter,Arjun,265000,12,2024-07-11,2027-02-14,29,35,8,0
+ACC-0214,Peak Finance Technologies,Retail,Growth,Arjun,1057000,71,2025-05-03,2027-01-17,48,48,4,1
+ACC-0215,Atlas Systems Solutions,Logistics,Growth,Meera,658000,64,2024-09-05,2027-02-25,30,32,8,0
+ACC-0216,Lumen Mobility India,Logistics,Growth,Divya,796000,51,2025-02-13,2027-01-21,31,30,8,0
+ACC-0217,Summit Foods Technologies,Manufacturing,Starter,Asha,257000,12,2025-07-29,2027-01-24,33,43,5,1
+ACC-0218,Cedar Mobility Solutions,EdTech,Starter,Asha,145000,15,2024-12-22,2027-05-02,18,29,7,1
+ACC-0219,Cedar Systems,Manufacturing,Enterprise,Asha,3777000,219,2025-09-29,2027-08-14,37,19,9,1
+ACC-0220,Cedar Finance Global,Retail,Starter,Divya,153000,10,2023-12-16,2027-07-19,28,36,7,1
+ACC-0221,Swift Health India,EdTech,Starter,Meera,254000,13,2024-08-17,2027-10-16,25,25,5,0
+ACC-0222,Apex Cloud,EdTech,Starter,Meera,119000,16,2024-07-25,2027-03-13,19,14,8,0
+ACC-0223,Green Finance Solutions,Logistics,Growth,Arjun,525000,56,2024-08-17,2027-05-01,42,52,3,1
+ACC-0224,Bright Works India,Logistics,Enterprise,Meera,2745000,143,2025-05-23,2027-03-21,45,30,6,1
+ACC-0225,Swift Foods Technologies,Healthcare,Starter,Meera,203000,19,2023-12-18,2026-11-20,49,37,5,0
+ACC-0226,Nova Health Global,Manufacturing,Enterprise,Asha,3733000,44,2026-01-28,2027-03-24,22,27,7,0
+ACC-0227,Summit Foods India,Manufacturing,Starter,Asha,299000,12,2025-01-18,2027-02-06,21,4,6,0
+ACC-0228,Prime Mobility Technologies,Healthcare,Growth,Divya,384000,48,2026-06-21,2027-04-26,25,43,5,0
+ACC-0229,Peak Systems Technologies,IT Services,Growth,Meera,512000,62,2025-10-30,2026-12-31,34,32,7,0
+ACC-0230,Summit Retail,Logistics,Starter,Asha,169000,17,2025-01-12,2027-07-29,27,24,8,0
+ACC-0231,Summit Finance Global,Healthcare,Starter,Ravi,194000,20,2025-04-10,2027-09-04,25,20,5,0
+ACC-0232,Lumen Labs Technologies,EdTech,Starter,Ravi,197000,11,2023-12-28,2027-10-16,29,20,6,0
+ACC-0233,Zenith Logistics India,Manufacturing,Enterprise,Ravi,3751000,293,2024-12-02,2026-12-05,36,52,6,1
+ACC-0234,Swift Systems Technologies,FinTech,Growth,Ravi,901000,63,2025-07-01,2026-12-17,38,17,9,0
+ACC-0235,Orbit Cloud Solutions,IT Services,Enterprise,Arjun,1139000,121,2025-06-15,2027-10-18,30,13,4,0
+ACC-0236,Core Mobility Technologies,Retail,Growth,Asha,655000,94,2024-12-04,2027-09-06,31,35,7,1
+ACC-0237,Nova Retail Technologies,FinTech,Starter,Ravi,222000,8,2024-06-01,2027-06-04,16,32,8,1
+ACC-0238,Bright Works Solutions,Retail,Growth,Meera,659000,67,2025-11-18,2027-02-28,23,28,9,0
+ACC-0239,Harbor Analytics,EdTech,Starter,Meera,123000,16,2025-01-02,2027-05-10,48,19,7,0
+ACC-0240,Blue Mobility Technologies,Logistics,Starter,Divya,177000,16,2025-01-12,2027-05-16,39,29,8,0
+ACC-0241,Apex Mobility India,IT Services,Growth,Divya,621000,51,2026-08-23,2027-09-06,20,47,5,0
+ACC-0242,Zenith Works Global,FinTech,Growth,Ravi,446000,74,2024-01-26,2027-05-14,27,23,7,0
+ACC-0243,Summit Health Solutions,IT Services,Starter,Meera,250000,7,2025-01-17,2026-11-14,25,28,7,1
+ACC-0244,Prime Finance India,EdTech,Growth,Asha,551000,58,2025-12-24,2027-07-14,45,21,6,0
+ACC-0245,Lumen Works Solutions,Healthcare,Growth,Arjun,759000,49,2024-11-12,2027-08-11,28,27,7,0
+ACC-0246,Harbor Finance Solutions,IT Services,Enterprise,Asha,2689000,199,2024-09-27,2027-02-20,18,8,8,0
+ACC-0247,Indigo Analytics Global,Retail,Growth,Asha,984000,67,2024-01-24,2026-12-16,33,29,5,0
+ACC-0248,Quartz Mobility,Logistics,Starter,Arjun,121000,19,2026-07-28,2026-12-26,14,19,7,0
+ACC-0249,Quartz Finance India,Logistics,Starter,Asha,119000,13,2025-06-28,2027-09-03,23,38,5,0
+ACC-0250,Orbit Logistics,Healthcare,Starter,Meera,157000,18,2026-02-26,2027-04-15,23,21,8,0
+ACC-0251,Zenith Cloud India,FinTech,Growth,Asha,636000,60,2025-01-12,2027-05-14,37,27,8,0
+ACC-0252,Nova Logistics Technologies,Logistics,Enterprise,Arjun,2011000,183,2025-03-29,2027-10-16,11,8,8,1
+ACC-0253,Kite Health,Retail,Starter,Arjun,252000,13,2025-04-26,2026-11-27,31,43,5,0
+ACC-0254,Orbit Mobility Global,Healthcare,Starter,Meera,146000,13,2023-11-15,2027-01-18,47,38,2,1
+ACC-0255,Bright Retail Solutions,Healthcare,Starter,Divya,113000,11,2025-02-26,2027-08-31,24,23,6,0
+ACC-0256,Blue Finance Solutions,Manufacturing,Growth,Meera,623000,67,2025-07-01,2027-05-18,29,7,7,1
+ACC-0257,Swift Mobility,FinTech,Growth,Asha,903000,64,2026-06-24,2026-11-14,28,16,8,1
+ACC-0258,Summit Learning Global,Healthcare,Starter,Asha,270000,7,2025-11-04,2027-07-16,35,2,8,0
+ACC-0259,Vertex Works Solutions,EdTech,Starter,Ravi,246000,7,2024-02-11,2026-12-24,25,14,5,0
+ACC-0260,Quartz Cloud,Healthcare,Growth,Ravi,735000,67,2025-05-20,2027-08-13,28,30,5,0
+ACC-0261,Vertex Systems India,Logistics,Starter,Ravi,244000,11,2024-01-29,2027-08-19,43,33,5,1
+ACC-0262,Peak Labs Global,EdTech,Growth,Ravi,831000,65,2025-02-25,2027-08-28,17,22,8,0
+ACC-0263,Swift Logistics Technologies,Logistics,Starter,Meera,144000,18,2025-02-09,2027-04-21,33,26,4,0
+ACC-0264,Lumen Finance Solutions,EdTech,Starter,Asha,208000,9,2025-06-11,2027-02-09,30,30,5,0
+ACC-0265,Core Mobility Solutions,Manufacturing,Enterprise,Arjun,3484000,144,2025-01-31,2027-09-18,22,29,10,0
+ACC-0266,Harbor Learning Technologies,Logistics,Starter,Ravi,161000,22,2026-06-24,2027-05-25,35,21,9,0
+ACC-0267,Quartz Mobility Solutions,Retail,Starter,Arjun,229000,16,2026-07-04,2027-06-21,36,32,7,0
+ACC-0268,Nova Analytics Global,Healthcare,Starter,Meera,194000,13,2025-04-25,2026-12-24,23,10,7,0
+ACC-0269,Blue Learning Technologies,FinTech,Starter,Divya,199000,10,2024-12-19,2027-06-17,40,53,4,1
+ACC-0270,Summit Mobility,Healthcare,Starter,Meera,114000,12,2025-02-06,2027-06-01,44,27,7,0
+ACC-0271,Vertex Retail,Healthcare,Starter,Ravi,232000,9,2025-06-12,2027-02-18,25,34,6,0
+ACC-0272,Swift Cloud Solutions,FinTech,Starter,Meera,273000,18,2025-10-31,2027-08-08,31,24,8,1
+ACC-0273,Prime Analytics,FinTech,Starter,Arjun,125000,11,2024-08-25,2026-12-23,35,40,7,1
+ACC-0274,Peak Health India,Healthcare,Growth,Meera,586000,79,2024-12-12,2027-07-21,23,20,9,0
+ACC-0275,Lumen Works Technologies,Retail,Growth,Meera,338000,52,2026-07-14,2027-10-17,16,17,7,0
+ACC-0276,Orbit Works Technologies,EdTech,Starter,Meera,102000,10,2025-05-19,2027-05-28,40,33,6,0
+ACC-0277,Core Finance India,FinTech,Starter,Ravi,298000,13,2024-08-23,2026-12-12,24,18,5,0
+ACC-0278,Summit Cloud,FinTech,Growth,Ravi,685000,12,2024-06-08,2027-05-23,33,24,8,0
+ACC-0279,Peak Retail Technologies,Healthcare,Enterprise,Divya,2189000,240,2025-11-07,2027-05-14,27,24,6,0
+ACC-0280,Blue Analytics,Healthcare,Enterprise,Arjun,1938000,237,2024-01-14,2027-05-22,17,13,7,0
+ACC-0281,Prime Works Technologies,FinTech,Starter,Asha,296000,18,2024-10-24,2027-02-11,39,22,10,0
+ACC-0282,Atlas Foods Global,EdTech,Starter,Divya,147000,6,2025-06-03,2027-06-18,29,12,10,0
+ACC-0283,Indigo Retail India,Logistics,Starter,Arjun,244000,20,2024-11-18,2027-02-08,33,18,5,0
+ACC-0284,Bright Foods India,Manufacturing,Starter,Asha,154000,18,2024-03-09,2027-05-24,31,21,10,0
+ACC-0285,Green Cloud Technologies,Logistics,Growth,Arjun,355000,82,2026-01-09,2027-06-07,35,37,5,0
+ACC-0286,Blue Systems Technologies,Logistics,Starter,Meera,235000,14,2026-03-29,2027-06-25,26,15,9,0
+ACC-0287,Atlas Health India,IT Services,Starter,Divya,96000,19,2025-05-31,2027-08-19,29,31,6,0
+ACC-0288,Harbor Finance India,FinTech,Starter,Meera,234000,8,2026-06-06,2027-09-18,40,32,5,1
+ACC-0289,Cedar Health,Manufacturing,Growth,Meera,495000,72,2024-04-15,2027-08-11,21,14,7,0
+ACC-0290,Swift Systems Solutions,IT Services,Starter,Ravi,248000,11,2023-11-27,2027-08-18,35,16,10,0
+ACC-0291,Peak Health,EdTech,Growth,Ravi,900000,30,2024-12-11,2027-09-13,26,14,9,0
+ACC-0292,Swift Analytics India,Manufacturing,Starter,Arjun,244000,9,2023-11-17,2027-01-31,28,40,7,0
+ACC-0293,Orbit Analytics,Healthcare,Enterprise,Divya,1156000,250,2026-06-22,2027-02-18,32,28,5,0
+ACC-0294,Blue Mobility Solutions,IT Services,Starter,Divya,240000,11,2024-11-13,2027-05-15,32,30,7,1
+ACC-0295,Nova Learning,EdTech,Growth,Arjun,1072000,66,2025-05-29,2027-04-21,23,26,6,0
+ACC-0296,Prime Foods India,FinTech,Enterprise,Arjun,1837000,114,2025-11-17,2027-07-15,26,3,8,0
+ACC-0297,Atlas Works Solutions,Healthcare,Enterprise,Meera,1936000,90,2025-10-12,2026-11-08,34,0,7,0
+ACC-0298,Peak Works Global,Manufacturing,Growth,Ravi,935000,84,2025-02-12,2026-12-25,31,31,5,1
+ACC-0299,Bright Labs India,EdTech,Growth,Arjun,425000,76,2024-11-03,2027-07-31,26,8,7,1
+ACC-0300,Atlas Learning Solutions,Retail,Growth,Ravi,815000,41,2026-03-15,2027-08-27,33,27,8,1
+ACC-0301,Prime Finance Global,Retail,Growth,Ravi,889000,59,2024-12-01,2027-02-21,47,44,2,1
+ACC-0302,Apex Labs Solutions,IT Services,Starter,Divya,104000,19,2024-01-12,2027-02-24,33,38,7,1
+ACC-0303,Green Labs Solutions,Retail,Growth,Meera,732000,67,2026-08-22,2027-05-26,41,13,8,1
+ACC-0304,Indigo Logistics,Healthcare,Growth,Ravi,749000,62,2024-03-02,2027-04-25,28,27,7,0
+ACC-0305,Lumen Labs Global,FinTech,Enterprise,Divya,2027000,332,2024-12-08,2027-01-04,31,29,6,1
+ACC-0306,Swift Analytics,FinTech,Starter,Divya,275000,11,2025-09-11,2027-05-04,35,39,6,0
+ACC-0307,Prime Learning Technologies,Logistics,Starter,Ravi,129000,15,2024-07-29,2027-08-26,21,21,6,0
+ACC-0308,Swift Cloud Global,Manufacturing,Growth,Meera,584000,59,2024-11-28,2027-07-25,27,43,5,0
+ACC-0309,Cedar Analytics Technologies,Manufacturing,Starter,Meera,269000,13,2024-06-24,2027-08-26,27,25,7,0
+ACC-0310,Prime Systems Technologies,Logistics,Starter,Arjun,135000,13,2026-06-09,2027-06-24,36,36,10,0
+ACC-0311,Blue Cloud Global,Manufacturing,Starter,Divya,264000,15,2026-07-02,2027-09-16,28,15,5,0
+ACC-0312,Orbit Retail,Retail,Starter,Meera,112000,15,2024-11-03,2027-02-02,27,32,7,1
+ACC-0313,Lumen Foods,Logistics,Starter,Arjun,196000,10,2025-10-21,2026-11-21,39,25,7,0
+ACC-0314,Orbit Analytics Global,Healthcare,Starter,Meera,111000,18,2025-12-28,2026-12-16,45,29,6,1
+ACC-0315,Atlas Analytics Global,EdTech,Starter,Divya,234000,10,2025-06-20,2027-10-28,32,18,6,0
+ACC-0316,Quartz Foods Global,EdTech,Starter,Meera,257000,14,2024-08-08,2027-06-23,25,25,4,0
+ACC-0317,Cedar Logistics Technologies,Healthcare,Starter,Ravi,269000,13,2026-02-27,2027-02-02,31,11,6,0
+ACC-0318,Indigo Logistics Technologies,EdTech,Growth,Meera,1065000,66,2023-11-24,2027-09-08,52,16,3,0
+ACC-0319,Swift Systems India,Manufacturing,Starter,Divya,233000,5,2025-06-21,2027-02-24,25,24,10,0
+ACC-0320,Kite Finance,Retail,Enterprise,Arjun,3479000,316,2026-03-29,2027-06-08,26,31,6,0
+ACC-0321,Apex Systems Solutions,EdTech,Enterprise,Asha,2658000,199,2026-06-20,2027-02-02,37,43,7,1
+ACC-0322,Summit Mobility Global,Retail,Starter,Asha,282000,20,2024-03-24,2026-12-09,35,22,6,0
+ACC-0323,Bright Works Global,FinTech,Starter,Meera,227000,12,2026-05-07,2027-02-09,39,36,3,1
+ACC-0324,Core Works,Healthcare,Growth,Divya,989000,59,2025-06-23,2027-01-26,37,30,4,0
+ACC-0325,Zenith Logistics Global,Retail,Growth,Meera,484000,94,2024-10-06,2027-05-22,36,24,8,0
+ACC-0326,Indigo Mobility India,Manufacturing,Growth,Meera,687000,55,2025-03-17,2026-11-12,26,24,7,0
+ACC-0327,Harbor Foods India,IT Services,Growth,Arjun,869000,82,2025-12-02,2027-01-30,22,25,8,0
+ACC-0328,Vertex Mobility Solutions,Logistics,Growth,Meera,458000,60,2026-05-12,2027-05-28,27,51,7,0
+ACC-0329,Core Systems,Logistics,Growth,Divya,465000,67,2024-08-23,2027-03-26,27,36,6,1
+ACC-0330,Swift Foods India,Logistics,Starter,Arjun,296000,15,2025-04-10,2027-06-21,20,15,6,1
+ACC-0331,Indigo Logistics Solutions,EdTech,Growth,Arjun,639000,75,2026-07-13,2027-06-29,33,14,8,0
+ACC-0332,Vertex Systems Global,Retail,Starter,Arjun,133000,11,2026-02-25,2027-10-18,37,53,4,1
+ACC-0333,Bright Systems Solutions,Logistics,Growth,Arjun,559000,42,2025-01-24,2027-09-01,26,26,3,0
+ACC-0334,Summit Labs India,Manufacturing,Enterprise,Asha,2320000,202,2026-03-10,2027-01-26,26,16,7,0
+ACC-0335,Kite Systems Solutions,Retail,Starter,Meera,223000,15,2025-07-21,2027-07-12,26,35,4,0
+ACC-0336,Summit Logistics,EdTech,Growth,Asha,1020000,56,2026-04-25,2027-06-18,33,21,5,0
+ACC-0337,Nova Learning Global,EdTech,Starter,Meera,297000,18,2024-05-26,2027-06-06,34,19,8,0
+ACC-0338,Cedar Health Solutions,FinTech,Growth,Asha,808000,83,2024-11-15,2027-08-19,37,27,5,1
+ACC-0339,Kite Health Global,Retail,Starter,Meera,239000,10,2024-06-08,2026-12-28,22,23,7,0
+ACC-0340,Vertex Mobility India,Healthcare,Enterprise,Ravi,2084000,194,2026-07-09,2027-03-20,39,36,6,0
+ACC-0341,Indigo Learning,EdTech,Starter,Asha,271000,8,2025-08-07,2027-08-25,14,32,7,1
+ACC-0342,Vertex Works Technologies,Logistics,Enterprise,Asha,1760000,402,2025-11-27,2027-09-22,29,15,7,0
+ACC-0343,Vertex Labs,Logistics,Growth,Meera,383000,65,2024-11-23,2026-11-18,48,18,8,0
+ACC-0344,Apex Learning Solutions,IT Services,Growth,Asha,1059000,68,2024-04-30,2027-04-23,31,18,8,1
+ACC-0345,Prime Cloud Solutions,Healthcare,Growth,Divya,974000,35,2026-01-08,2027-02-08,33,37,3,1
+ACC-0346,Zenith Labs India,Manufacturing,Growth,Arjun,537000,59,2024-06-23,2027-01-04,39,25,8,1
+ACC-0347,Cedar Finance Solutions,Manufacturing,Enterprise,Arjun,3187000,288,2025-01-06,2026-11-25,40,19,6,0
+ACC-0348,Harbor Works Solutions,EdTech,Starter,Asha,191000,13,2024-04-27,2027-05-17,34,20,7,0
+ACC-0349,Atlas Cloud Technologies,FinTech,Growth,Arjun,552000,79,2026-06-09,2027-07-03,15,26,6,0
+ACC-0350,Swift Systems,Retail,Starter,Arjun,155000,25,2023-11-06,2027-05-15,27,0,7,0
+ACC-0351,Lumen Foods Solutions,Logistics,Growth,Ravi,406000,42,2025-06-07,2027-03-17,50,27,5,0
+ACC-0352,Green Mobility Global,IT Services,Starter,Asha,208000,10,2025-11-14,2027-08-09,29,22,9,0
+ACC-0353,Blue Analytics Technologies,Logistics,Growth,Meera,648000,44,2026-02-23,2027-06-27,18,15,8,0
+ACC-0354,Kite Systems Global,EdTech,Growth,Arjun,700000,88,2023-11-12,2027-09-28,40,37,2,1
+ACC-0355,Bright Cloud Solutions,Logistics,Starter,Asha,140000,19,2024-02-26,2027-03-09,18,22,8,0
+ACC-0356,Cedar Cloud Technologies,Healthcare,Growth,Asha,1032000,57,2026-04-18,2027-01-30,37,21,8,0
+ACC-0357,Cedar Learning Technologies,Logistics,Growth,Ravi,798000,60,2025-05-27,2027-04-18,19,9,6,0
+ACC-0358,Core Retail India,Healthcare,Growth,Meera,1002000,45,2024-07-31,2027-05-06,26,18,8,0
+ACC-0359,Peak Labs India,IT Services,Starter,Meera,118000,19,2024-12-26,2027-04-18,24,32,8,0
+ACC-0360,Nova Cloud,IT Services,Growth,Meera,786000,53,2026-02-17,2027-08-31,24,13,5,0
+ACC-0361,Atlas Mobility Technologies,EdTech,Enterprise,Ravi,3730000,230,2025-08-23,2026-11-21,36,15,8,0
+ACC-0362,Nova Analytics Technologies,Retail,Starter,Asha,164000,17,2025-08-15,2027-05-13,33,18,5,0
+ACC-0363,Atlas Labs,Manufacturing,Starter,Asha,136000,14,2025-11-05,2027-04-08,31,40,7,1
+ACC-0364,Orbit Health Solutions,Logistics,Starter,Asha,150000,13,2023-12-07,2027-01-19,16,15,7,1
+ACC-0365,Zenith Learning,Logistics,Growth,Arjun,513000,60,2026-02-02,2027-06-23,14,13,9,0
+ACC-0366,Peak Foods Technologies,EdTech,Starter,Arjun,187000,18,2024-08-28,2027-08-20,32,43,4,1
+ACC-0367,Quartz Learning Solutions,FinTech,Growth,Meera,554000,89,2024-01-27,2027-05-20,29,12,6,0
+ACC-0368,Peak Logistics Global,Healthcare,Growth,Asha,512000,70,2024-05-28,2026-12-05,30,5,7,0
+ACC-0369,Atlas Works Global,FinTech,Starter,Meera,228000,18,2024-05-23,2026-12-02,22,6,9,0
+ACC-0370,Indigo Systems,EdTech,Enterprise,Divya,1245000,235,2026-03-20,2027-04-05,43,21,5,0
+ACC-0371,Orbit Cloud India,Retail,Growth,Ravi,565000,47,2026-04-16,2027-07-03,17,23,10,0
+ACC-0372,Bright Health Technologies,EdTech,Starter,Meera,237000,17,2024-06-09,2027-02-25,36,31,6,1
+ACC-0373,Vertex Mobility Global,FinTech,Starter,Meera,132000,15,2024-07-17,2027-02-24,27,37,4,1
+ACC-0374,Blue Finance,IT Services,Starter,Ravi,141000,8,2024-07-22,2027-09-10,41,25,6,0
+ACC-0375,Apex Retail Global,Retail,Starter,Meera,137000,13,2025-06-23,2026-11-10,41,24,8,0
+ACC-0376,Bright Finance,Manufacturing,Starter,Meera,96000,14,2025-03-06,2026-12-03,17,16,5,0
+ACC-0377,Prime Health,Retail,Enterprise,Meera,2558000,211,2026-08-16,2026-12-31,30,29,6,0
+ACC-0378,Summit Retail Global,EdTech,Starter,Arjun,104000,21,2025-11-03,2027-10-25,35,19,8,0
+ACC-0379,Apex Works Global,Logistics,Starter,Meera,152000,17,2025-03-01,2027-05-03,28,57,7,1
+ACC-0380,Bright Logistics Solutions,FinTech,Growth,Asha,1076000,84,2026-04-24,2026-12-31,32,27,9,0
+ACC-0381,Indigo Cloud Global,FinTech,Growth,Asha,1016000,64,2026-04-19,2027-02-24,39,22,10,0
+ACC-0382,Blue Retail Technologies,Retail,Enterprise,Meera,1751000,256,2026-07-16,2027-10-19,29,28,7,0
+ACC-0383,Orbit Systems,Manufacturing,Growth,Divya,542000,43,2026-01-26,2027-07-12,29,35,9,0
+ACC-0384,Nova Mobility India,FinTech,Starter,Asha,191000,15,2023-11-04,2027-01-24,49,24,4,0
+ACC-0385,Lumen Learning Technologies,EdTech,Starter,Asha,268000,15,2024-09-08,2027-01-30,44,19,9,1
+ACC-0386,Zenith Labs,Logistics,Enterprise,Arjun,3584000,147,2023-12-20,2026-12-01,25,15,7,0
+ACC-0387,Orbit Analytics India,Logistics,Growth,Meera,398000,50,2025-12-08,2027-08-10,27,23,9,0
+ACC-0388,Harbor Systems Solutions,EdTech,Enterprise,Ravi,1468000,225,2024-12-18,2026-12-24,36,43,6,0
+ACC-0389,Core Works India,Healthcare,Starter,Ravi,181000,16,2024-02-17,2027-02-16,33,7,7,0
+ACC-0390,Prime Logistics Solutions,Healthcare,Enterprise,Arjun,3795000,284,2025-08-31,2027-03-10,22,38,8,1
+ACC-0391,Green Cloud Solutions,EdTech,Growth,Meera,988000,49,2024-10-18,2027-06-16,27,12,8,0
+ACC-0392,Harbor Logistics Global,Manufacturing,Starter,Arjun,118000,17,2024-09-11,2027-06-11,35,30,5,0
+ACC-0393,Zenith Systems Solutions,Healthcare,Growth,Ravi,748000,56,2024-04-19,2027-08-19,29,38,6,0
+ACC-0394,Harbor Health Solutions,IT Services,Growth,Meera,421000,8,2023-11-28,2027-02-20,30,21,8,0
+ACC-0395,Bright Labs Solutions,Logistics,Starter,Divya,236000,12,2024-12-01,2027-03-23,45,12,8,0
+ACC-0396,Atlas Analytics Solutions,Healthcare,Starter,Ravi,283000,19,2025-01-04,2027-03-24,29,13,9,0
+ACC-0397,Lumen Mobility Technologies,Retail,Growth,Ravi,655000,29,2024-03-12,2026-11-21,42,47,4,1
+ACC-0398,Indigo Works Global,FinTech,Starter,Asha,113000,15,2024-09-20,2027-07-28,30,7,8,0
+ACC-0399,Core Labs Global,IT Services,Starter,Arjun,214000,22,2025-08-21,2027-05-16,37,35,7,1
+ACC-0400,Cedar Retail,EdTech,Starter,Asha,179000,11,2024-11-15,2027-04-25,35,5,6,0
+ACC-0401,Indigo Labs Global,Retail,Starter,Ravi,261000,15,2025-02-07,2027-10-29,30,29,7,0
+ACC-0402,Atlas Mobility,FinTech,Enterprise,Arjun,2142000,152,2026-01-07,2027-01-08,25,20,7,0
+ACC-0403,Orbit Health Technologies,EdTech,Growth,Asha,982000,89,2025-03-14,2027-10-19,23,36,7,0
+ACC-0404,Kite Cloud Solutions,Healthcare,Starter,Divya,152000,14,2024-11-22,2027-07-07,18,36,10,0
+ACC-0405,Bright Works Technologies,FinTech,Enterprise,Meera,1571000,253,2024-02-05,2027-01-23,25,35,5,0
+ACC-0406,Bright Learning,FinTech,Enterprise,Ravi,2036000,351,2025-01-06,2027-07-07,34,21,6,1
+ACC-0407,Prime Works Solutions,Logistics,Starter,Meera,103000,17,2026-03-14,2027-08-04,20,19,6,0
+ACC-0408,Summit Health Global,Logistics,Growth,Arjun,519000,44,2023-11-09,2027-03-15,33,14,9,0
+ACC-0409,Green Health,EdTech,Starter,Meera,231000,12,2025-01-08,2027-03-09,37,35,5,0
+ACC-0410,Zenith Health India,Healthcare,Enterprise,Divya,1524000,287,2025-11-07,2027-09-01,24,11,7,0
+ACC-0411,Apex Finance Global,Retail,Growth,Divya,387000,48,2024-07-09,2027-01-01,26,11,8,0
+ACC-0412,Apex Foods,Manufacturing,Growth,Ravi,403000,21,2025-07-28,2026-11-09,44,37,6,0
+ACC-0413,Green Learning India,FinTech,Starter,Arjun,112000,14,2025-08-13,2027-07-02,32,40,4,0
+ACC-0414,Peak Analytics India,FinTech,Enterprise,Ravi,3809000,138,2024-04-11,2027-09-27,25,29,4,0
+ACC-0415,Bright Health Solutions,Healthcare,Starter,Divya,289000,22,2024-03-13,2027-05-04,37,33,7,0
+ACC-0416,Summit Systems,Manufacturing,Starter,Ravi,105000,15,2025-03-06,2026-12-23,30,37,6,0
+ACC-0417,Harbor Labs Solutions,Healthcare,Starter,Ravi,251000,10,2025-08-10,2027-05-18,20,17,7,0
+ACC-0418,Green Retail Solutions,Logistics,Growth,Arjun,875000,47,2024-03-18,2027-02-03,34,35,6,1
+ACC-0419,Atlas Finance Solutions,IT Services,Starter,Arjun,299000,6,2026-03-05,2027-08-29,29,30,9,0
+ACC-0420,Green Works Solutions,Logistics,Enterprise,Asha,2165000,167,2024-07-16,2027-06-13,37,45,7,0
+ACC-0421,Summit Finance,Retail,Growth,Meera,523000,78,2025-01-02,2027-03-06,19,31,10,0
+ACC-0422,Bright Cloud Global,FinTech,Starter,Ravi,188000,25,2024-03-27,2027-06-17,47,37,5,0
+ACC-0423,Quartz Analytics India,Healthcare,Starter,Arjun,271000,18,2025-06-21,2027-07-03,25,30,9,0
+ACC-0424,Blue Mobility India,FinTech,Starter,Meera,245000,14,2024-04-19,2027-07-07,39,20,8,0
+ACC-0425,Swift Works Technologies,IT Services,Growth,Divya,668000,52,2026-08-17,2027-03-16,26,21,7,1
+ACC-0426,Nova Cloud Solutions,FinTech,Growth,Divya,491000,42,2024-07-05,2027-05-29,34,19,7,1
+ACC-0427,Orbit Systems Global,Healthcare,Starter,Arjun,244000,24,2026-06-21,2026-11-20,31,24,7,0
+ACC-0428,Zenith Retail Technologies,Manufacturing,Growth,Arjun,967000,56,2024-11-02,2027-03-30,40,23,7,0
+ACC-0429,Blue Systems Solutions,Retail,Starter,Divya,178000,24,2026-02-10,2027-03-21,28,29,7,0
+ACC-0430,Cedar Health India,Retail,Growth,Asha,821000,85,2023-12-04,2027-05-16,32,0,8,0
+ACC-0431,Cedar Works Technologies,Manufacturing,Enterprise,Arjun,2329000,119,2024-06-23,2027-10-13,41,35,9,0
+ACC-0432,Nova Finance Global,EdTech,Growth,Arjun,673000,48,2026-05-16,2027-10-14,21,12,10,0
+ACC-0433,Apex Logistics,IT Services,Growth,Asha,709000,47,2024-02-17,2027-04-27,33,33,8,0
+ACC-0434,Quartz Foods Solutions,EdTech,Growth,Divya,905000,58,2025-12-13,2027-06-25,28,39,5,0
+ACC-0435,Cedar Mobility Global,Logistics,Starter,Arjun,295000,14,2025-02-11,2026-12-13,35,39,5,1
+ACC-0436,Peak Analytics Global,IT Services,Starter,Ravi,187000,28,2026-06-05,2027-04-27,55,59,5,1
+ACC-0437,Harbor Works,EdTech,Starter,Meera,166000,10,2026-05-15,2027-07-10,26,20,5,0
+ACC-0438,Vertex Cloud Solutions,FinTech,Growth,Meera,591000,64,2025-12-25,2027-07-08,27,50,4,1
+ACC-0439,Cedar Finance India,IT Services,Growth,Divya,404000,71,2025-02-23,2027-10-17,44,38,6,1
+ACC-0440,Nova Systems Global,FinTech,Growth,Divya,532000,59,2025-02-14,2027-04-21,31,21,7,0
+ACC-0441,Green Health Technologies,Healthcare,Enterprise,Divya,1350000,258,2024-03-26,2027-09-27,52,48,5,0
+ACC-0442,Peak Mobility Technologies,Logistics,Starter,Arjun,183000,10,2026-03-14,2027-10-23,33,26,5,0
+ACC-0443,Blue Logistics India,IT Services,Growth,Asha,431000,61,2024-07-14,2027-05-29,29,19,10,0
+ACC-0444,Swift Mobility India,Healthcare,Starter,Divya,167000,17,2026-08-26,2026-12-07,25,35,6,0
+ACC-0445,Nova Mobility Technologies,Manufacturing,Starter,Asha,258000,16,2025-11-03,2027-03-20,32,12,7,0
+ACC-0446,Quartz Works India,Manufacturing,Growth,Asha,492000,70,2026-03-03,2027-08-07,20,34,7,1
+ACC-0447,Kite Works Technologies,IT Services,Enterprise,Asha,2989000,355,2026-04-26,2027-06-02,43,43,3,1
+ACC-0448,Kite Foods India,Retail,Growth,Divya,1003000,76,2025-01-02,2027-10-08,44,60,6,1
+ACC-0449,Summit Foods Global,FinTech,Starter,Meera,212000,15,2024-02-08,2027-08-25,23,2,9,0
+ACC-0450,Harbor Cloud Solutions,EdTech,Growth,Ravi,451000,38,2024-10-08,2026-11-27,26,36,7,0
+ACC-0451,Peak Logistics India,Healthcare,Starter,Asha,166000,12,2024-03-27,2027-09-11,20,14,9,0
+ACC-0452,Prime Finance Solutions,Manufacturing,Enterprise,Meera,2922000,233,2024-12-25,2027-03-13,30,13,8,0
+ACC-0453,Lumen Health,Logistics,Growth,Arjun,695000,64,2026-07-08,2027-08-26,14,2,10,0
+ACC-0454,Core Learning Global,EdTech,Starter,Divya,126000,12,2025-09-07,2027-05-06,26,3,6,0
+ACC-0455,Blue Foods Global,EdTech,Starter,Meera,187000,10,2024-04-28,2027-04-17,39,19,9,0
+ACC-0456,Bright Systems,Logistics,Starter,Arjun,207000,9,2026-07-18,2026-12-01,32,2,9,0
+ACC-0457,Core Cloud Technologies,EdTech,Enterprise,Divya,1914000,126,2026-05-23,2026-12-17,15,23,8,0
+ACC-0458,Peak Works Technologies,Manufacturing,Starter,Divya,221000,13,2024-04-17,2027-06-07,30,27,5,0
+ACC-0459,Atlas Retail Solutions,IT Services,Growth,Ravi,355000,33,2026-06-28,2027-05-28,28,7,8,0
+ACC-0460,Vertex Analytics Global,IT Services,Growth,Divya,563000,41,2023-12-09,2027-05-23,23,10,8,0
+ACC-0461,Atlas Learning Technologies,Logistics,Growth,Meera,927000,52,2024-07-05,2026-12-31,23,32,5,0
+ACC-0462,Lumen Analytics India,Manufacturing,Starter,Divya,149000,8,2024-10-10,2027-05-07,37,29,6,1
+ACC-0463,Vertex Logistics Technologies,Retail,Enterprise,Asha,2968000,278,2025-02-21,2026-11-26,34,32,8,0
+ACC-0464,Harbor Foods Technologies,Healthcare,Starter,Asha,180000,18,2026-06-01,2026-12-26,46,35,4,1
+ACC-0465,Swift Learning,Retail,Growth,Divya,547000,50,2025-06-27,2027-05-03,39,52,5,1
+ACC-0466,Core Labs,IT Services,Growth,Arjun,1015000,52,2024-05-14,2027-06-15,32,13,8,0
+ACC-0467,Prime Retail Global,Healthcare,Growth,Asha,568000,69,2024-02-04,2027-06-28,18,11,7,0
+ACC-0468,Vertex Health Global,EdTech,Enterprise,Divya,1818000,196,2025-05-25,2027-10-24,26,31,6,1
+ACC-0469,Orbit Works,FinTech,Starter,Asha,281000,11,2024-04-12,2027-09-08,39,35,6,0
+ACC-0470,Swift Labs,EdTech,Growth,Arjun,882000,81,2024-06-16,2027-03-21,29,0,9,0
+ACC-0471,Cedar Retail Global,FinTech,Starter,Ravi,235000,18,2026-07-04,2027-08-13,29,28,4,1
+ACC-0472,Core Learning India,Manufacturing,Starter,Asha,106000,17,2024-11-26,2026-12-09,28,16,9,0
+ACC-0473,Quartz Learning India,Manufacturing,Starter,Divya,123000,19,2024-11-30,2027-09-09,25,31,6,0
+ACC-0474,Zenith Retail Solutions,Manufacturing,Starter,Divya,226000,6,2025-02-14,2027-03-24,29,20,8,0
+ACC-0475,Apex Labs Global,Logistics,Starter,Asha,139000,21,2024-06-20,2027-08-05,40,38,8,0
+ACC-0476,Harbor Learning Global,FinTech,Starter,Asha,142000,16,2024-02-19,2027-10-20,22,5,5,0
+ACC-0477,Kite Learning India,EdTech,Starter,Arjun,255000,19,2025-02-06,2027-07-16,28,12,8,0
+ACC-0478,Apex Finance Technologies,Healthcare,Growth,Asha,523000,66,2025-10-03,2027-10-02,25,27,6,0
+ACC-0479,Core Analytics,Retail,Growth,Arjun,356000,60,2023-11-14,2026-11-08,21,17,9,0
+ACC-0480,Lumen Labs,EdTech,Starter,Divya,103000,13,2023-12-04,2027-01-05,42,12,6,1
+ACC-0481,Prime Finance,Logistics,Starter,Arjun,186000,16,2024-09-18,2027-06-18,33,24,8,1
+ACC-0482,Nova Foods,Healthcare,Starter,Ravi,222000,13,2024-11-04,2027-05-18,18,13,7,0
+ACC-0483,Green Finance Technologies,Manufacturing,Growth,Asha,978000,75,2026-05-16,2026-12-18,24,16,8,0
+ACC-0484,Atlas Systems India,EdTech,Starter,Arjun,119000,7,2025-07-11,2027-07-21,22,32,7,1
+ACC-0485,Orbit Learning Global,IT Services,Starter,Asha,136000,12,2026-02-07,2026-11-26,24,21,7,0
+ACC-0486,Orbit Logistics Technologies,EdTech,Starter,Meera,204000,24,2025-03-15,2027-10-27,32,24,7,0
+ACC-0487,Harbor Labs India,EdTech,Starter,Meera,170000,12,2024-04-25,2026-12-31,28,27,7,0
+ACC-0488,Blue Health Solutions,Logistics,Starter,Arjun,194000,13,2026-01-11,2027-04-14,37,8,10,0
+ACC-0489,Indigo Foods Solutions,Manufacturing,Growth,Ravi,1021000,44,2023-10-31,2027-08-28,31,28,9,0
+ACC-0490,Peak Labs Technologies,FinTech,Growth,Arjun,725000,66,2026-04-20,2027-05-09,22,13,10,0
+ACC-0491,Kite Cloud Technologies,EdTech,Growth,Arjun,624000,46,2026-05-22,2027-07-30,33,33,8,0
+ACC-0492,Orbit Retail India,Healthcare,Growth,Ravi,1072000,56,2023-11-23,2027-07-16,7,13,8,0
+ACC-0493,Zenith Finance Technologies,EdTech,Growth,Ravi,351000,75,2026-05-20,2027-10-12,26,22,9,0
+ACC-0494,Atlas Logistics Solutions,Manufacturing,Starter,Asha,286000,11,2024-07-29,2027-04-21,29,24,10,0
+ACC-0495,Peak Works,IT Services,Growth,Meera,691000,74,2024-06-30,2027-10-23,39,35,8,0
+ACC-0496,Core Foods Technologies,FinTech,Growth,Ravi,693000,74,2025-09-23,2027-05-10,30,24,9,0
+ACC-0497,Apex Works,Retail,Starter,Asha,284000,19,2026-06-27,2027-09-22,24,30,6,1
+ACC-0498,Blue Health Technologies,EdTech,Growth,Meera,696000,62,2025-10-16,2027-07-26,38,22,7,0
+ACC-0499,Kite Logistics Global,Retail,Starter,Meera,185000,29,2026-06-22,2026-12-22,25,24,8,0
+ACC-0500,Orbit Health Global,FinTech,Growth,Asha,513000,78,2024-10-02,2027-06-24,29,32,5,1
+ACC-0501,Nova Cloud Global,Retail,Growth,Asha,814000,65,2024-02-20,2027-09-17,29,34,7,0
+ACC-0502,Core Systems Global,Retail,Enterprise,Asha,2857000,184,2023-10-31,2026-12-21,33,33,6,1
+ACC-0503,Green Learning Technologies,EdTech,Enterprise,Arjun,1749000,242,2024-05-22,2027-09-02,36,14,7,0
+ACC-0504,Zenith Mobility Technologies,IT Services,Growth,Ravi,853000,85,2024-06-18,2026-12-12,25,10,9,0
+ACC-0505,Peak Foods Solutions,EdTech,Growth,Asha,802000,90,2024-02-28,2027-09-14,30,14,8,0
+ACC-0506,Apex Foods Global,Retail,Growth,Asha,610000,86,2024-06-23,2027-08-16,35,27,8,0
+ACC-0507,Swift Works India,Logistics,Starter,Divya,97000,18,2024-10-25,2026-12-29,33,11,9,0
+ACC-0508,Green Analytics India,Manufacturing,Growth,Ravi,648000,37,2023-10-31,2027-07-24,31,26,8,0
+ACC-0509,Lumen Learning Solutions,EdTech,Starter,Arjun,97000,17,2025-10-01,2026-12-17,42,18,1,1
+ACC-0510,Atlas Learning India,EdTech,Starter,Meera,111000,9,2025-06-29,2027-05-28,31,20,7,0
+ACC-0511,Vertex Labs Technologies,FinTech,Starter,Asha,184000,8,2024-02-02,2027-10-03,31,33,8,0
+ACC-0512,Quartz Cloud India,IT Services,Growth,Ravi,364000,64,2025-10-13,2027-01-18,40,10,5,0
+ACC-0513,Orbit Finance Solutions,IT Services,Starter,Asha,152000,17,2025-10-26,2027-01-06,29,41,8,1
+ACC-0514,Quartz Health Technologies,FinTech,Starter,Arjun,230000,19,2026-03-27,2027-04-06,46,47,5,0
+ACC-0515,Bright Cloud Technologies,Retail,Starter,Ravi,159000,17,2025-11-19,2027-03-17,39,21,7,0
+ACC-0516,Indigo Analytics Solutions,FinTech,Starter,Meera,300000,17,2024-12-23,2026-11-22,36,20,7,0
+ACC-0517,Indigo Health,IT Services,Starter,Asha,283000,10,2024-02-23,2027-04-18,30,30,7,0
+ACC-0518,Indigo Cloud India,Healthcare,Growth,Divya,757000,58,2026-04-13,2027-02-06,27,28,7,0
+ACC-0519,Zenith Learning India,FinTech,Starter,Ravi,293000,8,2024-09-23,2026-12-19,34,23,9,0
+ACC-0520,Green Analytics,Retail,Growth,Meera,977000,23,2024-06-27,2027-02-12,36,29,4,0
+ACC-0521,Orbit Systems Technologies,EdTech,Enterprise,Divya,2075000,305,2024-02-13,2026-11-12,32,39,6,0
+ACC-0522,Quartz Logistics Global,FinTech,Starter,Arjun,249000,11,2024-07-13,2027-09-30,28,29,6,0
+ACC-0523,Prime Cloud,EdTech,Starter,Arjun,124000,18,2026-03-23,2027-10-28,33,41,3,0
+ACC-0524,Vertex Labs Global,Manufacturing,Growth,Divya,834000,79,2025-04-11,2027-03-17,23,21,8,0
+ACC-0525,Blue Works Technologies,Manufacturing,Starter,Asha,196000,12,2023-12-16,2027-09-16,21,3,6,0
+ACC-0526,Kite Works Global,Healthcare,Starter,Divya,99000,17,2024-01-31,2027-04-20,33,50,6,0
+ACC-0527,Cedar Analytics,Healthcare,Enterprise,Meera,1936000,200,2024-12-03,2027-09-29,25,9,8,0
+ACC-0528,Apex Logistics Global,Healthcare,Enterprise,Meera,4061000,111,2023-12-05,2027-01-06,38,54,5,1
+ACC-0529,Lumen Mobility Global,IT Services,Growth,Ravi,546000,62,2024-10-07,2027-02-15,33,20,7,0
+ACC-0530,Cedar Analytics Global,Logistics,Starter,Arjun,133000,12,2026-06-26,2027-07-29,33,24,6,0
+ACC-0531,Vertex Cloud Technologies,EdTech,Growth,Divya,446000,52,2024-01-25,2027-01-23,40,25,7,1
+ACC-0532,Summit Works Solutions,Manufacturing,Growth,Arjun,674000,95,2026-03-11,2027-08-28,32,37,9,0
+ACC-0533,Swift Analytics Technologies,Logistics,Starter,Asha,268000,8,2025-08-02,2027-04-07,33,19,9,0
+ACC-0534,Orbit Finance Global,FinTech,Growth,Meera,891000,66,2025-12-28,2027-03-30,27,31,9,0
+ACC-0535,Vertex Logistics Solutions,EdTech,Starter,Arjun,185000,10,2024-08-14,2027-04-17,19,25,7,0
+ACC-0536,Peak Health Technologies,Logistics,Starter,Ravi,139000,19,2026-08-01,2027-08-19,30,25,7,0
+ACC-0537,Nova Works Technologies,Healthcare,Growth,Arjun,336000,65,2024-11-05,2026-11-07,40,23,4,0
+ACC-0538,Core Finance,Logistics,Starter,Arjun,190000,16,2024-03-17,2027-08-02,54,34,6,1
+ACC-0539,Orbit Finance Technologies,EdTech,Starter,Asha,262000,10,2024-06-04,2027-08-12,44,34,4,0
+ACC-0540,Summit Analytics Global,Healthcare,Growth,Meera,869000,46,2025-10-17,2027-08-27,39,33,6,0
+ACC-0541,Kite Foods Technologies,FinTech,Enterprise,Asha,2355000,319,2024-02-12,2027-10-29,30,30,6,0
+ACC-0542,Summit Foods Solutions,EdTech,Growth,Meera,764000,91,2025-08-21,2027-08-13,24,9,6,0
+ACC-0543,Quartz Retail Technologies,Retail,Growth,Ravi,640000,68,2024-09-24,2027-05-14,17,15,7,0
+ACC-0544,Vertex Learning India,Retail,Enterprise,Divya,2887000,182,2025-03-24,2027-04-21,19,36,8,0
+ACC-0545,Green Learning,Logistics,Starter,Divya,202000,16,2026-06-23,2027-03-24,18,0,8,0
+ACC-0546,Green Labs,Retail,Starter,Meera,235000,25,2026-08-29,2027-08-29,29,29,2,0
+ACC-0547,Zenith Systems,EdTech,Starter,Meera,200000,15,2026-02-23,2027-03-26,10,13,7,1
+ACC-0548,Lumen Finance Global,Manufacturing,Starter,Arjun,288000,21,2024-01-03,2027-05-30,26,17,8,1
+ACC-0549,Swift Labs India,Healthcare,Growth,Arjun,634000,46,2023-12-14,2026-12-09,25,23,7,0
+ACC-0550,Core Analytics Global,Retail,Starter,Arjun,99000,14,2025-07-02,2027-02-27,24,27,9,0
+ACC-0551,Bright Logistics Technologies,Healthcare,Starter,Arjun,144000,17,2023-11-29,2027-02-08,25,33,6,0
+ACC-0552,Atlas Systems,IT Services,Starter,Divya,198000,16,2026-07-12,2027-04-10,35,36,6,0
+ACC-0553,Nova Health Solutions,FinTech,Starter,Divya,206000,11,2023-11-30,2027-05-04,49,43,5,1
+ACC-0554,Nova Analytics India,Manufacturing,Enterprise,Asha,2803000,189,2026-01-04,2027-07-20,29,22,7,0
+ACC-0555,Indigo Systems Global,FinTech,Starter,Meera,242000,19,2026-07-25,2027-04-09,24,21,8,0
+ACC-0556,Peak Analytics,Retail,Starter,Meera,152000,20,2024-07-05,2026-12-29,30,19,9,1
+ACC-0557,Atlas Foods Technologies,Logistics,Starter,Meera,232000,21,2025-07-31,2027-05-20,34,26,7,0
+ACC-0558,Harbor Mobility Global,Manufacturing,Starter,Meera,240000,23,2025-11-01,2026-11-24,20,23,8,0
+ACC-0559,Blue Systems India,FinTech,Growth,Arjun,621000,62,2024-07-03,2027-09-06,31,35,4,1
+ACC-0560,Prime Retail,FinTech,Starter,Meera,178000,13,2025-09-20,2027-08-09,32,8,9,0
+ACC-0561,Quartz Retail Global,IT Services,Starter,Ravi,133000,21,2024-07-10,2027-01-25,27,11,6,0
+ACC-0562,Lumen Analytics Solutions,Retail,Starter,Meera,180000,18,2026-02-10,2027-02-07,24,34,7,0
+ACC-0563,Orbit Learning,FinTech,Growth,Divya,914000,42,2026-06-04,2026-11-14,25,14,9,0
+ACC-0564,Cedar Mobility Technologies,Manufacturing,Growth,Ravi,1009000,41,2025-09-29,2027-03-16,30,27,8,1
+ACC-0565,Core Retail Global,Healthcare,Growth,Asha,763000,68,2024-12-07,2026-11-18,13,29,9,0
+ACC-0566,Quartz Logistics Technologies,IT Services,Growth,Divya,534000,56,2026-01-11,2027-10-08,32,19,8,1
+ACC-0567,Blue Cloud India,IT Services,Growth,Asha,832000,59,2026-04-06,2026-12-23,32,17,6,0
+ACC-0568,Lumen Foods India,Manufacturing,Starter,Arjun,247000,19,2024-07-14,2027-06-30,26,11,7,0
+ACC-0569,Orbit Cloud,Retail,Starter,Divya,164000,18,2025-04-07,2027-05-29,49,35,4,0
+ACC-0570,Green Analytics Global,Healthcare,Growth,Ravi,945000,83,2025-06-10,2027-01-29,34,27,6,0
+ACC-0571,Orbit Labs India,Retail,Starter,Ravi,111000,6,2025-12-26,2027-08-22,36,7,10,0
+ACC-0572,Nova Systems Solutions,Retail,Growth,Ravi,308000,64,2026-08-14,2026-12-14,49,29,6,0
+ACC-0573,Kite Systems Technologies,IT Services,Starter,Asha,121000,18,2026-07-08,2027-09-20,35,33,5,0
+ACC-0574,Peak Systems Solutions,Logistics,Growth,Asha,422000,32,2024-09-23,2027-07-29,28,18,8,0
+ACC-0575,Swift Learning India,IT Services,Enterprise,Asha,3822000,200,2026-06-10,2027-06-21,36,23,6,0
+ACC-0576,Nova Health Technologies,Manufacturing,Growth,Meera,631000,44,2025-12-19,2027-09-17,23,24,10,0
+ACC-0577,Blue Logistics Technologies,Manufacturing,Enterprise,Meera,1938000,251,2024-01-28,2027-03-30,25,18,8,0
+ACC-0578,Quartz Retail,Healthcare,Growth,Asha,635000,89,2025-09-09,2027-02-14,24,28,8,0
+ACC-0579,Green Retail India,Healthcare,Enterprise,Divya,2312000,401,2024-07-19,2026-12-30,30,24,7,0
+ACC-0580,Indigo Works Technologies,Healthcare,Starter,Arjun,157000,11,2025-09-09,2027-10-03,17,3,7,0
+ACC-0581,Vertex Systems Solutions,Logistics,Starter,Asha,124000,17,2024-01-06,2027-03-29,29,40,5,0
+ACC-0582,Green Systems,FinTech,Growth,Divya,812000,70,2024-04-30,2027-08-30,35,38,5,0
+ACC-0583,Vertex Foods India,IT Services,Starter,Asha,124000,16,2025-05-01,2027-03-04,31,30,5,0
+ACC-0584,Zenith Works Solutions,Healthcare,Starter,Meera,254000,16,2024-09-20,2027-10-14,12,6,6,0
+ACC-0585,Green Analytics Technologies,IT Services,Enterprise,Meera,1709000,272,2025-06-29,2027-09-14,35,49,4,1
+ACC-0586,Core Works Solutions,Logistics,Growth,Meera,870000,90,2023-12-24,2027-02-23,30,40,5,1
+ACC-0587,Atlas Retail Technologies,Healthcare,Starter,Divya,260000,19,2025-08-25,2027-04-29,29,25,3,0
+ACC-0588,Atlas Works,Healthcare,Starter,Divya,122000,10,2024-04-15,2027-08-17,32,20,7,1
+ACC-0589,Bright Learning Global,Retail,Starter,Ravi,114000,18,2024-11-30,2027-01-25,33,17,8,0
+ACC-0590,Harbor Health Technologies,Retail,Starter,Meera,290000,19,2024-11-01,2026-11-13,43,39,7,0
+ACC-0591,Atlas Foods Solutions,Retail,Enterprise,Divya,2525000,273,2025-09-01,2027-02-16,36,28,3,1
+ACC-0592,Core Systems Technologies,EdTech,Starter,Arjun,225000,20,2024-04-18,2027-06-05,31,1,7,0
+ACC-0593,Green Finance India,Healthcare,Starter,Divya,101000,15,2024-07-17,2026-12-24,30,21,6,0
+ACC-0594,Apex Mobility Solutions,Healthcare,Growth,Meera,517000,63,2024-05-07,2027-03-05,36,32,5,1
+ACC-0595,Prime Works Global,Logistics,Starter,Ravi,199000,15,2024-05-21,2027-10-01,36,27,9,0
+ACC-0596,Zenith Finance Solutions,IT Services,Starter,Meera,277000,5,2026-03-22,2026-12-02,33,17,7,0
+ACC-0597,Quartz Learning Technologies,FinTech,Growth,Divya,512000,58,2024-03-05,2026-11-23,32,17,6,1
+ACC-0598,Blue Labs Technologies,IT Services,Growth,Divya,905000,47,2024-04-09,2027-04-06,31,6,7,0
+ACC-0599,Indigo Labs Technologies,Retail,Enterprise,Arjun,3146000,161,2025-12-23,2026-11-09,15,24,9,0
+ACC-0600,Harbor Mobility Technologies,Retail,Growth,Arjun,390000,85,2023-11-16,2026-11-15,28,24,4,0
