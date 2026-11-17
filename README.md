@@ -64,7 +64,7 @@ Top churn drivers (permutation importance): logins per user, seat adoption, numb
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/customer-health-churn-analytics.git
+git clone https://github.com/Kowshikhvarma/customer-health-churn-analytics.git
 cd customer-health-churn-analytics
 python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
